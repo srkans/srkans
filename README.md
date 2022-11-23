@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srkans
-- 👀 I’m interested in being Back-End Developer
+- 👀 I’m interested in problem-solving.
 - 🌱 I’m currently learning HTML, CSS, JavaScript on theOdinProject
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is via serkansacma@hotmail.com or Discord SerkanS#3577
