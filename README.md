@@ -1,4 +1,4 @@
-As an experienced industrial software developer with 8 years of experience across the Automotive, Metal Processing, and Food&Beverages sectors, I am currently seeking new opportunities as a Back-End Web Developer.
+As an experienced industrial software developer with 8 years of experience across the Automotive, Metal Processing, and Food&Beverages sectors, I am currently seeking new opportunities as a Software Developer.
 
 With expertise in C# and MS-SQL technologies, I have commissioned and developed test and production machines that can report effectively.
 
