@@ -7,7 +7,8 @@ In addition, I have recently completed various courses and training, including M
 Moreover, I have experience in Microservices with .NET, Docker, Kubernetes, and self-study in OOP, SOLID, Algorithms, and Foundations.
 
 - 📫 How to reach me is via serkansacma@hotmail.com or Discord SerkanS#3577 or www.linkedin.com/in/serkansacma/
-
+- 
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srkans
 <!---
 srkans/srkans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
