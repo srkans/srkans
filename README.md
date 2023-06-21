@@ -8,7 +8,7 @@ Moreover, I have experience in Microservices with .NET, Docker, Kubernetes, and 
 
 - 📫 How to reach me is via serkansacma@hotmail.com or Discord SerkanS#3577 or www.linkedin.com/in/serkansacma/
 - 
-![image]({https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrkans1212%2Fhit-counter})
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrkans1212%2Fhit-counter)
 
 <!---
 srkans/srkans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
