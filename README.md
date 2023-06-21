@@ -1,10 +1,10 @@
-As an experienced industrial software developer with 8 years of experience across the Automotive, Metal Processing, and Food&Beverages sectors, I am currently seeking new opportunities as a Software Developer.
+I am an Electrical & Electronics Engineer with a strong passion for software development. My expertise lies in ASP.NET Core, C#, Entity Framework, and related technologies. 
 
-With expertise in C# and MS-SQL technologies, I have commissioned and developed test and production machines that can report effectively.
+I specialize in developing clean code architecture using ASP.NET Core, C#, and Entity Framework. I have hands-on experience building RESTful APIs, implementing secure authentication and authorization mechanisms, and seamlessly integrating databases.
 
-In addition, I have recently completed various courses and training, including MCSD Course in C#, ASP.NET Core MVC, Entity Framework, and MS-SQL, as well as front-end development courses in HTML, CSS, JavaScript, and Design Patterns for ASP.NET Core.
+I am skilled in various software testing methodologies, including unit testing, integration testing, and test-driven development (TDD). By embracing domain-driven design (DDD) principles, I create flexible and maintainable solutions that align with business requirements.
 
-Moreover, I have experience in Microservices with .NET, Docker, Kubernetes, and self-study in OOP, SOLID, Algorithms, and Foundations.
+I am passionate about continuous learning and staying up to date with the latest technologies and industry trends. Collaborative by nature, I thrive in team environments and excel at problem-solving through effective communication and teamwork.
 
 - 📫 How to reach me is via serkansacma@hotmail.com or Discord SerkanS#3577 or www.linkedin.com/in/serkansacma/
   
