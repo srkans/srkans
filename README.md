@@ -12,4 +12,4 @@ How to reach me:<br>
   
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srkans&theme=tokyonight)
 
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrkans1212%2Fhit-counter)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srkans&label=Profile%20views&color=0e75b6&style=flat" alt="serkansacma" /> </p>
