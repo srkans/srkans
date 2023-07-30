@@ -6,11 +6,10 @@ I am skilled in various software testing methodologies, including unit testing, 
 
 I am passionate about continuous learning and staying up to date with the latest technologies and industry trends. Collaborative by nature, I thrive in team environments and excel at problem-solving through effective communication and teamwork.
 
-- 📫 How to reach me is via serkansacma@hotmail.com or Discord SerkanS#3577 or www.linkedin.com/in/serkansacma/
+How to reach me:<br>
+<a href="mailto:serkansacma@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/serkansacma/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrkans1212%2Fhit-counter)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srkans&theme=tokyonight)
 
-<!---
-srkans/srkans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrkans1212%2Fhit-counter)
