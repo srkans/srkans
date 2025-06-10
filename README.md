@@ -4,7 +4,7 @@ I specialize in developing clean code architecture using ASP.NET Core, C#, and E
 
 I am skilled in various software testing methodologies, including unit testing, integration testing, and test-driven development (TDD). By embracing domain-driven design (DDD) principles, I create flexible and maintainable solutions that align with business requirements.
 
-I am passionate about continuous learning and staying up to date with the latest technologies and industry trends. Collaborative by nature, I thrive in team environments and excel at problem-solving through effective communication and teamwork.
+I am passionate about continuous learning and staying up to date with the latest technologies and industry trends.
 
 How to reach me:<br>
 <a href="mailto:serkansacma@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
